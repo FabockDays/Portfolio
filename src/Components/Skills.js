@@ -1,24 +1,25 @@
 import React from 'react'; 
-import { CgCPlusPlus } from "react-icons/cg";
-import {FaReact, FaPython, FaGitAlt, FaGithub, FaNpm, FaFigma, FaBootstrap} from "react-icons/fa";
+import { SiDjango } from "react-icons/si"; 
+import {FaReact, FaPython, FaGitAlt, FaGithub, FaNpm, FaBootstrap, FaHtml5, FaCss3, FaReacteurope, FaDatabase} from "react-icons/fa";
 import {DiNodejs, DiJavascript1} from "react-icons/di";
-import {SiExpress, SiMongodb, SiVercel} from "react-icons/si";
+import { SiVercel } from "react-icons/si";
 
 const Skills = ({skill}) => {
     const icon = {
-        'C++': <CgCPlusPlus/>,
         Python: <FaPython/>,
         React: <FaReact/>,
         Javascript: <DiJavascript1/>,
         Node : <DiNodejs/>,
-        Express : <SiExpress/>,
-        MongoDb : <SiMongodb/>,
         Git : <FaGitAlt/>,
         Github : <FaGithub/>,
         Npm : <FaNpm/>,
-        Figma : <FaFigma/>,
         Bootstrap: <FaBootstrap/>,
-        Vercel : <SiVercel/>
+        Vercel : <SiVercel/>,
+        Django: <SiDjango />, 
+        CSS: <FaCss3 />, 
+        HTML: <FaHtml5 />, 
+        SQL: <FaDatabase />, 
+        
     }
     
   return (

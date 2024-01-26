@@ -13,7 +13,7 @@ const Home = () => {
 
         <div className='HomeText'>
           <h1>Hi There!</h1>
-          <h1>I'M <b>DEVANSH SAHNI</b></h1>
+          <h1>I'M <b>Fabian Diaz</b></h1>
           <Typed/>   
         </div>
 
@@ -33,9 +33,9 @@ const Home = () => {
             that impacts lives. 
             I want to do work that challenges me as a developer & work that I can 
             be proud of.<br /><br />
-            I am fluent in <b>C++</b> and know a bit of <b>Python</b> and am working on a few 
-            projects in the <b>MERN</b> stack.<br />
-            I plan to learn <b>Next.js</b>, <b>Three.js</b> and<b> Typescript</b> in the near future. <br /><br />
+            I am a sfotware developer who focuses his career in <b>Javascript</b> and <b>Python.</b>  I'm working on some projects 
+            made with <b>React</b> - <b>Django.</b><br />
+            I plan to learn <b>Next.js</b>, <b>Three.js</b> and<b> C++</b> in the near future. <br /><br />
             Also, I love <b>coffee</b> <CiCoffeeCup style={{scale:"1.5", rotate:"15deg"}}/>   
           </p>
         </div>

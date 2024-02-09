@@ -13,7 +13,7 @@ const  ProjectBox = ({projectPhoto, projectName}) => {
 
     DoritaDesc:"E-commerce website dedicated to the sale of clothing. Login and user registration. Exclusive OFFERS section for registered users only.  Shopping cart. Section for orders and shipments of products. Adaptable to all devices. Made with Javascript, React, Redux, Styled-Components, Hooks, Reducers. Deployed in Vercel.",
     DoritaGithub:"https://github.com/FabockDays/Dorita-eCommerce",
-    DoritaWebsite:"https://dorita-e-commerce.vercel.app/",
+    DoritaWebsite:"https://dorita-e-commerce-ehem11oyd-fabockdays.vercel.app/",
 
     BoxGamesDesc : " website dedicated to the sale and download of games, offering users an immersive and accessible experience. Developed with HTML and CSS, the attractive design and captivating animations bring the platform to life, creating a visually pleasing space for video game lovers. The site guarantees an intuitive and easy navigation.  ",
     BoxGamesGithub : "https://github.com/FabockDays/box-game",
